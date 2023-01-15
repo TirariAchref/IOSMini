@@ -1735,7 +1735,7 @@
         <scene sceneID="VDa-hO-5jT">
             <objects>
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="X7H-2D-ZE6" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="" image="heart.fill" catalog="system" id="Cvj-6m-09O"/>
+                    <tabBarItem key="tabBarItem" title="" image="dollarsign.circle" catalog="system" id="Cvj-6m-09O"/>
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="3Ng-ue-GFK">
                         <rect key="frame" x="0.0" y="59" width="393" height="44"/>
@@ -2136,6 +2136,7 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
+        <segue reference="It6-vB-EDw"/>
         <segue reference="jpa-kZ-rgZ"/>
         <segue reference="O96-wv-T7U"/>
         <segue reference="kiC-xf-MrT"/>
@@ -2144,11 +2145,11 @@
     </inferredMetricsTieBreakers>
     <resources>
         <image name="circle" width="206" height="206"/>
+        <image name="dollarsign.circle" catalog="system" width="128" height="123"/>
         <image name="entre1" width="506" height="688"/>
         <image name="entre2" width="180" height="180"/>
         <image name="entre3" width="1448" height="754"/>
         <image name="envelope" catalog="system" width="128" height="93"/>
-        <image name="heart.fill" catalog="system" width="128" height="107"/>
         <image name="homekit" catalog="system" width="128" height="104"/>
         <image name="list.bullet.rectangle.fill" catalog="system" width="128" height="93"/>
         <image name="logo" width="1125" height="844"/>
