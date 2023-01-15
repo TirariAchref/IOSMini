@@ -1,0 +1,434 @@
+
+/* Class = "UILabel"; text = "We are MEDTECK We are a community of doctors and patient. We are here to help  you and make you feel like home."; ObjectID = "08n-xi-kEZ"; */
+"08n-xi-kEZ.text" =  "Nous sommes SOS Entrepreneur nous sommes une communauté de Entrepreneur. Nous sommes là pour vous aider.";
+
+
+/* Class = "UILabel"; text = "Just Sign In to be a part of our communnity."; ObjectID = "0xb-Y8-Zxv"; */
+"0xb-Y8-Zxv.text" = "Connectez-vous simplement pour faire partie de notre communauté.";
+/* Class = "UIButton"; configuration.title = "Submit"; ObjectID = "1sz-lK-83L"; */
+"1sz-lK-83L.configuration.title" = "Soumettre";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "1sz-lK-83L"; */
+"1sz-lK-83L.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Register"; ObjectID = "2wy-z0-XGt"; */
+"2wy-z0-XGt.configuration.title" = "inscrit";
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "2wy-z0-XGt"; */
+"2wy-z0-XGt.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "List des reponse"; ObjectID = "3Be-Bb-MMN"; */
+"3Be-Bb-MMN.configuration.title" = "List des reponse";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "3Be-Bb-MMN"; */
+"3Be-Bb-MMN.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Français"; ObjectID = "4WM-fP-dzy"; */
+"4WM-fP-dzy.text" = "Français";
+
+/* Class = "UILabel"; text = "Achref Tirari"; ObjectID = "4m6-Db-Tyn"; */
+"4m6-Db-Tyn.text" = "User";
+
+/* Class = "UILabel"; text = "from :"; ObjectID = "5RY-Mq-Syw"; */
+"5RY-Mq-Syw.text" = "De :";
+
+/* Class = "UILabel"; text = "Current Photo"; ObjectID = "5wz-Kr-XM0"; */
+"5wz-Kr-XM0.text" = "Photo actuelle";
+
+/* Class = "UILabel"; text = "Achref Tirari"; ObjectID = "7nb-sz-qiN"; */
+"7nb-sz-qiN.text" = "User";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8tC-ps-eg1"; */
+"8tC-ps-eg1.text" = "Label";
+
+/* Class = "UILabel"; text = "TO :"; ObjectID = "9Mw-sm-7nQ"; */
+"9Mw-sm-7nQ.text" = "de :";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "9RM-DV-Cuq"; */
+"9RM-DV-Cuq.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Subject : "; ObjectID = "9ZM-iX-Uif"; */
+"9ZM-iX-Uif.text" = "Sujet : ";
+
+/* Class = "UITextField"; placeholder = "To"; ObjectID = "AHb-5k-Cca"; */
+"AHb-5k-Cca.placeholder" = "de";
+
+/* Class = "UIButton"; configuration.title = "Register"; ObjectID = "ATV-ZY-Ozh"; */
+"ATV-ZY-Ozh.configuration.title" = "inscrit";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ATV-ZY-Ozh"; */
+"ATV-ZY-Ozh.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Reset Your Password"; ObjectID = "AdP-fg-j5l"; */
+"AdP-fg-j5l.text" = "Renouvelle votre mot de pass";
+
+//* Class = "UITextField"; placeholder = "Enter your Code"; ObjectID = "Afi-fF-BOt"; */
+"Afi-fF-BOt.placeholder" = "Entrer votre Code";
+
+/* Class = "UIButton"; configuration.title = "repondre"; ObjectID = "AvD-aN-9CX"; */
+"AvD-aN-9CX.configuration.title" = "reponde";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "AvD-aN-9CX"; */
+"AvD-aN-9CX.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Put your question here :"; ObjectID = "DWf-Hk-Vgx"; */
+"DWf-Hk-Vgx.text" = "Inserer votre question :";
+
+/* Class = "UIButton"; configuration.title = "Donate Now"; ObjectID = "Dbt-tY-MSe"; */
+"Dbt-tY-MSe.configuration.title" = "Acheter";
+
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Dbt-tY-MSe"; */
+"Dbt-tY-MSe.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Repondre"; ObjectID = "Dtx-hb-nMf"; */
+"Dtx-hb-nMf.configuration.title" = "Reponde";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Dtx-hb-nMf"; */
+"Dtx-hb-nMf.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Subject"; ObjectID = "Dxy-7b-W2t"; */
+"Dxy-7b-W2t.placeholder" = "Sujet";
+
+/* Class = "UIButton"; configuration.title = "Update"; ObjectID = "Ewg-rZ-J5B"; */
+"Ewg-rZ-J5B.configuration.title" = "Mise a jour";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Ewg-rZ-J5B"; */
+"Ewg-rZ-J5B.normalTitle" = "Button";
+/* Class = "UILabel"; text = "Please check your Email we send you a message with your  code. Your code is 6 numbers  long. "; ObjectID = "F9F-Xf-VM9"; */
+"F9F-Xf-VM9.text" = "Veuillez vérifier votre e-mail et vous envoyer un message avec votre code. Votre code est 6 chiffres
+";
+
+/* Class = "UILabel"; text = "Select New Photo "; ObjectID = "G4T-7Q-xYE"; */
+"G4T-7Q-xYE.text" = "Choisi une Photo ";
+
+/* Class = "UITextField"; placeholder = "Subject"; ObjectID = "GFg-Xc-YcU"; */
+"GFg-Xc-YcU.placeholder" = "Sujet";
+
+/* Class = "UITextField"; placeholder = "Enter your Email"; ObjectID = "GWm-cz-bWI"; */
+"GWm-cz-bWI.placeholder" = "Entrer votre Email";
+
+/* Class = "UILabel"; text = "Confirm Password"; ObjectID = "Gms-oB-ID0"; */
+"Gms-oB-ID0.text" = "Confirmer votre mot passe";
+
+/* Class = "UITextField"; placeholder = "Enter you full name"; ObjectID = "H90-0s-eUB"; */
+"H90-0s-eUB.placeholder" = "Enter votre nom";
+
+
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "HL9-4R-iD6"; */
+"HL9-4R-iD6.placeholder" = "Confirmer mot de pass";
+
+/* Class = "UIButton"; configuration.title = "Forget Password ?"; ObjectID = "HVP-xf-bHI"; */
+"HVP-xf-bHI.configuration.title" = "Mot de pass Oublier ?";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "HVP-xf-bHI"; */
+"HVP-xf-bHI.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "We reached :"; ObjectID = "HmK-Sd-vbP"; */
+"HmK-Sd-vbP.text" = "Nous avons atteint:";
+
+/* Class = "UILabel"; text = "Welcome "; ObjectID = "HzY-97-lcE"; */
+"HzY-97-lcE.text" = "Bienvenue ";
+
+/* Class = "UILabel"; text = "Thank you for your generous gift. We are thrilled to have  your support. Through your  donation we have been able to accomplish our goals and  continue working towards helping people in need. You  truly make the difference for us, and we are extremely  grateful!"; ObjectID = "I3G-OA-EY7"; */
+"I3G-OA-EY7.text" = "Paiment effectué aves succeés !!";
+
+/* Class = "UIButton"; configuration.title = "Sign In"; ObjectID = "Iut-is-d6h"; */
+"Iut-is-d6h.configuration.title" = "Inscrit";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Iut-is-d6h"; */
+"Iut-is-d6h.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Continue"; ObjectID = "JAg-EK-Dvf"; */
+"JAg-EK-Dvf.configuration.title" = "Continue";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "JAg-EK-Dvf"; */
+"JAg-EK-Dvf.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Continue"; ObjectID = "K9z-ek-4Gz"; */
+"K9z-ek-4Gz.configuration.title" = "Continue";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "K9z-ek-4Gz"; */
+"K9z-ek-4Gz.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Please check your phone we send you a message with your  code. Your code is 6 numbers  long. "; ObjectID = "KC0-yD-7EE"; */
+"KC0-yD-7EE.text" = "Veuillez vérifier votre téléphone et vous envoyer un message avec votre code. Votre code est composé de 6 chiffres.
+";
+
+/* Class = "UILabel"; text = "Already have an account ? "; ObjectID = "Ktn-Qc-cwb"; */
+"Ktn-Qc-cwb.text" = "Vous avez déjà un compte? ";
+
+/* Class = "UILabel"; text = " We are almost there !"; ObjectID = "LTf-E7-6xl"; */
+"LTf-E7-6xl.text" = "Nous y sommes presque!";
+
+/* Class = "UILabel"; text = "Welcome Onboard !"; ObjectID = "MQo-di-AjF"; */
+"MQo-di-AjF.text" = "Bienvenue !";
+
+/* Class = "UIButton"; configuration.title = "Log In With Facebook"; ObjectID = "MbA-zY-rfN"; */
+"MbA-zY-rfN.configuration.title" = "Se connecter avec Facebook";
+
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "MbA-zY-rfN"; */
+"MbA-zY-rfN.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "We reached now : "; ObjectID = "MoP-Rc-GH7"; */
+"MoP-Rc-GH7.text" = "Montant actuel en DT : ";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "MxR-iH-q9v"; */
+"MxR-iH-q9v.text" = "English";
+
+/* Class = "UITextField"; placeholder = "Change password"; ObjectID = "MzE-A4-D23"; */
+"MzE-A4-D23.placeholder" = "Changer votre mot de pass";
+
+/* Class = "UIButton"; configuration.title = "Search"; ObjectID = "NCj-E5-Q9r"; */
+"NCj-E5-Q9r.configuration.title" = "rechercher";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "NCj-E5-Q9r"; */
+"NCj-E5-Q9r.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Googel Map"; ObjectID = "OM0-9Y-KcO"; */
+"OM0-9Y-KcO.configuration.title" = "Googel Map";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "OM0-9Y-KcO"; */
+"OM0-9Y-KcO.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "welcome to MEDTECK  Thank you for chossing us    you will find our best doctors  in our platform."; ObjectID = "OMT-Ar-495"; */
+"OMT-Ar-495.text" = "bienvenue à  SOS Entrepreneur Merci de nous avoir choisis, vous trouverez nos meilleurs Entrepreneur sur notre plateforme.";
+
+/* Class = "UILabel"; text = "Please enter your email or mobile number to search for your account."; ObjectID = "POM-IS-fMT"; */
+"POM-IS-fMT.text" = "Veuillez entrer votre e-mail pour rechercher votre compte.";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "QOZ-U0-sSQ"; */
+"QOZ-U0-sSQ.placeholder" = "Confirmer Mot de passe";
+
+/* Class = "UIButton"; configuration.title = "Update"; ObjectID = "QkL-zx-uwh"; */
+"QkL-zx-uwh.configuration.title" = "Mise a jour";
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "QkL-zx-uwh"; */
+"QkL-zx-uwh.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Submit"; ObjectID = "SdT-Np-3EO"; */
+"SdT-Np-3EO.configuration.title" = "Inscrit";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "SdT-Np-3EO"; */
+"SdT-Np-3EO.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Enter your Code"; ObjectID = "SxQ-UR-qcD"; */
+"SxQ-UR-qcD.placeholder" = "Entrer votre Code";
+
+/* Class = "UITextField"; text = "53533455"; ObjectID = "SxQ-UR-qcD"; */
+"SxQ-UR-qcD.text" = "53533455";
+
+//* Class = "UITextField"; placeholder = "Confirm Your Password"; ObjectID = "SyX-qk-kCZ"; */
+"SyX-qk-kCZ.placeholder" = "Confirmer votre mot de pass";
+
+/* Class = "UIButton"; configuration.title = "Accunt Configuration"; ObjectID = "Ucs-LO-38F"; */
+"Ucs-LO-38F.configuration.title" = "Parametre de Compte";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Ucs-LO-38F"; */
+"Ucs-LO-38F.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Change Your Photo"; ObjectID = "V8t-Rl-Au8"; */
+"V8t-Rl-Au8.configuration.title" = "Changer votre Photo";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "V8t-Rl-Au8"; */
+"V8t-Rl-Au8.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Log In"; ObjectID = "VCI-vb-j1w"; */
+"VCI-vb-j1w.configuration.title" = "Connexion";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "VCI-vb-j1w"; */
+"VCI-vb-j1w.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "QR Code"; ObjectID = "WPq-4g-Hr1"; */
+"WPq-4g-Hr1.configuration.title" = "QR Code";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "WPq-4g-Hr1"; */
+"WPq-4g-Hr1.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Welcome "; ObjectID = "X9b-OR-feE"; */
+"X9b-OR-feE.text" = "Bienvenu ";
+
+/* Class = "UIButton"; configuration.title = "Continue"; ObjectID = "X9y-wL-7hi"; */
+"X9y-wL-7hi.configuration.title" = "Continue";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "X9y-wL-7hi"; */
+"X9y-wL-7hi.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "send"; ObjectID = "XSv-sB-cF8"; */
+"XSv-sB-cF8.configuration.title" = "envoi";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "XSv-sB-cF8"; */
+"XSv-sB-cF8.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Find Your Account"; ObjectID = "Xnr-OS-zW3"; */
+"Xnr-OS-zW3.text" = "Trouvez votre compte";
+
+/* Class = "UITextField"; placeholder = "Enter Your Email "; ObjectID = "Yg6-ZX-MNa"; */
+"Yg6-ZX-MNa.placeholder" = "Entrer votre Email ";
+
+/* Class = "UIButton"; configuration.title = "Get Started"; ObjectID = "bbD-nX-Kop"; */
+"bbD-nX-Kop.configuration.title" = "Commencer";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "bbD-nX-Kop"; */
+"bbD-nX-Kop.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "from :"; ObjectID = "bmC-NM-2al"; */
+"bmC-NM-2al.text" = "De :";
+
+/* Class = "UITextField"; placeholder = "Mobile Number"; ObjectID = "c1L-3f-won"; */
+"c1L-3f-won.placeholder" = "Numero de telephone";
+
+/* Class = "UITextField"; placeholder = "Enter Your Code"; ObjectID = "cxP-q6-BbM"; */
+"cxP-q6-BbM.placeholder" = "Entrer votre Code";
+
+/* Class = "UILabel"; text = "MEDTECK User"; ObjectID = "e4r-3P-6XL"; */
+"e4r-3P-6XL.text" = "utilisateur";
+
+/* Class = "UITextField"; placeholder = "Enter your Code"; ObjectID = "e5f-Io-AtI"; */
+"e5f-Io-AtI.placeholder" = "Entrer votre Code";
+
+/* Class = "UILabel"; text = "want to join US ?"; ObjectID = "eRD-uA-Csi"; */
+"eRD-uA-Csi.text" = "veux nous rejoindre?";
+
+/* Class = "UILabel"; text = "MEDTECK User"; ObjectID = "ebE-Ir-2IX"; */
+"ebE-Ir-2IX.text" = "utilisateur";
+
+
+/* Class = "UIButton"; configuration.title = "Select New Photo"; ObjectID = "evG-qr-WB6"; */
+"evG-qr-WB6.configuration.title" = "Choisi votre image";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "evG-qr-WB6"; */
+"evG-qr-WB6.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Achref Tirari"; ObjectID = "hLK-Dq-iWV"; */
+"hLK-Dq-iWV.text" = " User";
+
+/* Class = "UITextField"; placeholder = "Enter your Code"; ObjectID = "iNj-8i-9xY"; */
+"iNj-8i-9xY.placeholder" = "Entrer votre Code";
+
+/* Class = "UITextField"; text = "achref"; ObjectID = "iNj-8i-9xY"; */
+"iNj-8i-9xY.text" = "NOM";
+
+/* Class = "UITextField"; placeholder = "Money Amount"; ObjectID = "jCZ-8r-GdZ"; */
+"jCZ-8r-GdZ.placeholder" = "Montant d'argent";
+
+/* Class = "UIButton"; configuration.title = "Get Started"; ObjectID = "jzs-fd-LeE"; */
+"jzs-fd-LeE.configuration.title" = "Commencer";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "jzs-fd-LeE"; */
+"jzs-fd-LeE.normalTitle" = "Button";
+
+
+/* Class = "UIButton"; configuration.title = "Back To Home"; ObjectID = "kCv-Uz-XD9"; */
+"kCv-Uz-XD9.configuration.title" = "Retourner acceuil";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "kCv-Uz-XD9"; */
+"kCv-Uz-XD9.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Account Configuration"; ObjectID = "klx-E2-v3k"; */
+"klx-E2-v3k.text" = "Configuration du compte";
+
+/* Class = "UILabel"; text = "Send the code Via Email
+to get the code to
+reset your password "; ObjectID = "knq-ho-Og2"; */
+"knq-ho-Og2.text" = "Envoyez le code par e-mail pour obtenir le code pour réinitialiser votre mot de passe";
+
+/* Class = "UITextField"; placeholder = "Enter your Email"; ObjectID = "kvj-Q0-cgz"; */
+"kvj-Q0-cgz.placeholder" = "Entrer votre Email";
+
+/* Class = "UIButton"; configuration.title = "Deconnixion"; ObjectID = "ldw-Ze-NBR"; */
+"ldw-Ze-NBR.configuration.title" = "Deconnixion";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ldw-Ze-NBR"; */
+"ldw-Ze-NBR.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "m6f-lZ-KRG"; */
+"m6f-lZ-KRG.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Enter your Passwrod"; ObjectID = "mPt-ZO-qok"; */
+"mPt-ZO-qok.placeholder" = "Entrer votre Mot de passe";
+
+/* Class = "UILabel"; text = "Update Number"; ObjectID = "o2f-X8-csV"; */
+"o2f-X8-csV.text" = "Mise a jour de numero";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "nd3-Ck-uFC"; */
+"nd3-Ck-uFC.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Update Number"; ObjectID = "o2f-X8-csV"; */
+"o2f-X8-csV.text" = "mise a jour Numero";
+
+/* Class = "UIButton"; configuration.title = "Submit"; ObjectID = "oSX-21-qRL"; */
+"oSX-21-qRL.configuration.title" = "Inscrit";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "oSX-21-qRL"; */
+"oSX-21-qRL.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Update Name"; ObjectID = "okj-Ie-Xuh"; */
+"okj-Ie-Xuh.text" = "Mise a jour nom";
+
+/* Class = "UILabel"; text = "Notre Objectif"; ObjectID = "ost-Oa-4CE"; */
+"ost-Oa-4CE.text" = "Votre Sold I DT :";
+
+/* Class = "UILabel"; text = "30,000 DT"; ObjectID = "pBU-ep-lCl"; */
+"pBU-ep-lCl.text" = "30,000 DT";
+
+/* Class = "UILabel"; text = "MEDTECK User"; ObjectID = "qGD-1b-0Je"; */
+"qGD-1b-0Je.text" = " utilisateur";
+
+/* Class = "UILabel"; text = "Put your reponse here :"; ObjectID = "qTb-86-FF8"; */
+"qTb-86-FF8.text" = "Mettez votre réponse ici :";
+
+/* Class = "UIButton"; configuration.title = "Sign up"; ObjectID = "r5N-Xi-Y6K"; */
+"r5N-Xi-Y6K.configuration.title" = "S'inscrire";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "r5N-Xi-Y6K"; */
+"r5N-Xi-Y6K.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Subject : "; ObjectID = "rDj-Dk-AlZ"; */
+"rDj-Dk-AlZ.text" = "Sujet : ";
+
+/* Class = "UILabel"; text = "Reset Your Password"; ObjectID = "rOj-B5-DFt"; */
+"rOj-B5-DFt.text" = "Réinitialisez votre mot de passe";
+
+/* Class = "UITextField"; placeholder = "Enter Your Password"; ObjectID = "sBK-8A-l0y"; */
+"sBK-8A-l0y.placeholder" = "Entrer votre mot de pass";
+/* Class = "UILabel"; text = "Please check your message with your
+code.Your Code is 6 numbers long."; ObjectID = "sLI-uW-uCx"; */
+"sLI-uW-uCx.text" = "Veuillez vérifier votre message avec votre code. Votre code est composé de 6 chiffres.";
+
+/* Class = "UITextField"; placeholder = "Enter Your Password"; ObjectID = "tz1-3Y-nVa"; */
+"tz1-3Y-nVa.placeholder" = "Entrer votre mot de pass";
+
+/* Class = "UILabel"; text = "Reset Your Password"; ObjectID = "u47-SH-WjF"; */
+"u47-SH-WjF.text" = "Réinitialisez votre mot de passe";
+
+/* Class = "UILabel"; text = "How Are We ?"; ObjectID = "uyN-aA-rmn"; */
+"uyN-aA-rmn.text" = "Comment sommes-nous ?";
+
+/* Class = "UILabel"; text = "Put your mail here"; ObjectID = "vbW-zf-xkM"; */
+"vbW-zf-xkM.text" = "Mettez votre courrier ici";
+
+/* Class = "UIButton"; configuration.title = "Continue"; ObjectID = "vda-7U-Bdq"; */
+"vda-7U-Bdq.configuration.title" = "Continue";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "vda-7U-Bdq"; */
+"vda-7U-Bdq.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Donate Now"; ObjectID = "vzL-hU-AUx"; */
+"vzL-hU-AUx.configuration.title" = "Acheter";
+
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "vzL-hU-AUx"; */
+"vzL-hU-AUx.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Welcome Onboard !"; ObjectID = "x1f-mG-qyD"; */
+"x1f-mG-qyD.text" = "Bienvenu!";
+
+/* Class = "UITextField"; placeholder = "Role"; ObjectID = "xVh-d2-bqT"; */
+"xVh-d2-bqT.placeholder" = "Role";
+
+/* Class = "UILabel"; text = "Change Password"; ObjectID = "xj0-ZE-xoR"; */
+"xj0-ZE-xoR.text" = "Changer votre mot de pass";
+
+/* Class = "UILabel"; text = "Get what you need with US "; ObjectID = "zpg-el-HMd"; */
+"zpg-el-HMd.text" = "Obtenez ce dont vous avez besoin avec NOUS  ";

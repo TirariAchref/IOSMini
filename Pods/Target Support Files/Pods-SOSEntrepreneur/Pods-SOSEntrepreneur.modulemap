@@ -1,0 +1,6 @@
+framework module Pods_SOSEntrepreneur {
+  umbrella header "Pods-SOSEntrepreneur-umbrella.h"
+
+  export *
+  module * { export * }
+}

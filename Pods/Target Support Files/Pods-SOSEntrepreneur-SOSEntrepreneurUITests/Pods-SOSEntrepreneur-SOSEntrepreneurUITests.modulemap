@@ -1,0 +1,6 @@
+framework module Pods_SOSEntrepreneur_SOSEntrepreneurUITests {
+  umbrella header "Pods-SOSEntrepreneur-SOSEntrepreneurUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
